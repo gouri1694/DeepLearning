@@ -1,2 +1,3 @@
 # DeepLearning
-ANN,CNN,RNN
+Deep learning Notes.
+It includes ANN,CNN,RNN concepts
